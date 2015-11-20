@@ -1,6 +1,3 @@
----
-tags: bigData
----
 # Hello World!!!
 
 # Access your first data in a native HANA Application.
