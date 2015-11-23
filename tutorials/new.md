@@ -9,6 +9,6 @@ Written by Thomas Bieser, October 2014
 
 In this tutorial you will make your very first steps to access data on HANA. This tutorial will write a native HANA application, using the Web-based Development Workbench.
 
-Tutorial.
+Tutorial story line.
 
 End of story.
