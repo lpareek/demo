@@ -2,9 +2,11 @@
 title: Sample GH Page
 tags: badtag
 ---
-# Hello World!!!
+Hello World!!!
+==============
 
-# Access your first data in a native HANA Application.
+Access your first data in a native HANA Application.
+----------------------------------------------------
 
 Written by Thomas Bieser, October 2014
 
