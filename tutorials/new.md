@@ -1,4 +1,5 @@
 ---
+title: Sample GH Page
 tags: badtag
 ---
 # Hello World!!!
