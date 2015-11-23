@@ -12,6 +12,7 @@ In this tutorial you will make your very first steps to access data on HANA. Thi
 
 #Tutorial story line new.
 
+List:
 - Item 1
 - Item 2
 - Item 3
