@@ -18,6 +18,7 @@ In this tutorial you will make your very first steps to access data on HANA. Thi
 - Item 4
 - Item 5 
 - Item 6
+- Item 7
 
 ### Section
 
