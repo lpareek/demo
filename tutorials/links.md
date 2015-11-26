@@ -6,5 +6,5 @@ tags: [tutorial:product/hana_studio, tutorial:product/sapHana]
 
 **Additional Resources**
 
-* [Tags](/tags.md)
-* [Title](/title.md)
+* [Tags](/empty.md)
+* [Title](/new.md)
