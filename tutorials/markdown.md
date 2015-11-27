@@ -1,26 +1,8 @@
 ---
-title: bugs
-description: elements with bugs
+title: Markdown Test
+description: Markdown Samples Test Page
 tags: [tutorial:product/hana_studio, tutorial:product/sapHana]
 ---
-
-# Bugs
-
-> quote
->> quote1
-
-- item1
- - one
- - two
-
-```javascript
-function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
-```
-
 | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
 | col 3 is      | right-aligned | $1600 |
