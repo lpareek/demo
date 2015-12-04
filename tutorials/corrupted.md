@@ -1,6 +1,6 @@
 ---
 title: Nata page1 bug
-fgfhgfh: new nata page
-fghgfhfgh: tutorial1:product/sapHana
+description: new nata page
+tags: tutorial:product/
 ---
 # sssss dddddddddddddddd ffffffff
