@@ -3,7 +3,7 @@
 title: Markdown Test
 description: Markdown Samples Test Page
 ---
-# Bugs222
+# Bugs2
 
 > quote
 >> quote1
