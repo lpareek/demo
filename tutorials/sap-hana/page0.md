@@ -2,7 +2,7 @@
 ---
 title: Markdown Test
 description: Markdown Samples Test Page
-tags: [tutorial:product/sapHana]
+tags: [tutorial:product/sapHana, xxx]
 ---
 # Bugs2
 
