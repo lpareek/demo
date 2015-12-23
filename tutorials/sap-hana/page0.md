@@ -2,7 +2,7 @@
 ---
 title: Markdown Test
 description: Markdown Samples Test Page
-tags:
+tags: [something]
 ---
 # Bugs2
 
