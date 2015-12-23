@@ -4,7 +4,7 @@ title: Markdown Test
 description: Markdown Samples Test Page
 tags: [tutorial:product/hana_studio, tutorial:product/sapHana_x]
 ---
-# Bugs223
+# Bugs
 
 > quote
 >> quote1
