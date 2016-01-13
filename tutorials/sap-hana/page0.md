@@ -33,4 +33,4 @@ Task list:
  - [x] this is a complete item
  - [ ] this is an incomplete item
 
-[README](/readme.md)
+[README](/README.md)
