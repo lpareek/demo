@@ -6,7 +6,6 @@ tags: [tutorial:product/sapHana, xxx]
 ---
 # Bugz
 ##Small bug
-asd
 
 > quote
 >> quote1
