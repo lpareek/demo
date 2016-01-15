@@ -5,7 +5,7 @@ description: Markdown Samples Test Page
 tags: [tutorial:product/sapHana, xxx]
 ---
 # Buaa
-##Small bugz
+##Small bug
 
 
 > quote
