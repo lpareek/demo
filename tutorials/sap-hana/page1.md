@@ -7,7 +7,6 @@ tags: [tutorial:product/sapHana, xxx]
 # Buaa
 ##Small bugz
 
-asdasdasdasdasd
 
 > quote
 >> quote1
