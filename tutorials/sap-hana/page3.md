@@ -4,7 +4,7 @@ title: Markdown Test
 description: Markdown Samples Test Page
 tags: [tutorial:product/sapHana, xxx]
 ---
-# Bug
+Bug
 ## Small bug
 
 > quote
