@@ -36,4 +36,4 @@ Task list:
 
 [README](/README.md)
 
-[broken](https://googl.ecom)
+[broken](http://github.zz)
