@@ -9,12 +9,13 @@ tags: [tutorial:product/hcp, tutorial:product/mobile, tutorial:interest/gettings
 
 1. heading1
 
-text1
+ text1
+
 2. heading2
 
-text2
+ text2
 3. heading3
 
-text3
+ text3
 
 eof
