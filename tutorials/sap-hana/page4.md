@@ -124,7 +124,6 @@ Congratulations: You just have your first own native SAP HANA application runnin
 ### Related information
 [SAP HANA Development Information - official documentation](http://help.sap.com/hana_platform#section6)
 
-
 ## Next Steps
 Make your very first steps to access data on HANA. This tutorial will write a native HANA application, using the Web-based Development Workbench.
 
