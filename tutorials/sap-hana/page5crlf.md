@@ -1,4 +1,4 @@
 ---
 title: Sample Page
 ---
-This is a sample page
+This is a sample page.
