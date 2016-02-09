@@ -4,7 +4,7 @@ description: Build an app using the SAP Web IDE template wizard
 tags: [tutorial:product/hcp, tutorial:product/mobile, tutorial:interest/gettingstarted]
 ---
 
-### Time to Complete
+#Time to Complete
 **10 min**
 
 1.  Go to <https://account.hanatrial.ondemand.com> and log in to your HCP cockpit.
